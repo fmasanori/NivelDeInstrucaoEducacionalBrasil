@@ -8,3 +8,5 @@ O primeiro grafico mostra a porcentagem e a legenda de nivel de instrucao para c
 os demais graficos mostram o nivel de escolaridade de acordo com cada etapa do periodo de ensino com um coeficiente de variacao de pesquisa, 
 dividindo se entre pessoas Sem ensino, ensino fundamental incompleto, medio e superior.
 
+#autores:
+Luiz Henrique Silva e Luara Cristine Lopes Goulart
